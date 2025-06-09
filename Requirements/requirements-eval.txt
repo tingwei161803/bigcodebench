@@ -26,8 +26,8 @@ mechanize==0.4.9
 natsort==7.1.1
 networkx==2.6.3
 nltk==3.8
-numba==0.55.0
-numpy==1.21.2
+numba==0.55.2
+numpy==1.23.5
 opencv-python-headless==4.9.0.80
 openpyxl==3.1.2
 pandas==2.0.3
